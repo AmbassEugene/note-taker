@@ -1,2 +1,3 @@
 # note-taker
 a simple react app to take notes on the go
+I created  a branch to help with features of this simple app...
